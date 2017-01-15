@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8afeda35-fcf7-4b32-8a7c-e8559ad2ce3b" name="Default" comment="测试">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/com.demo/yun/yi/Student.java" afterPath="$PROJECT_DIR$/src/main/com.demo/yun/yi/Student.java" />
     </list>
     <ignored path="helloproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -883,7 +882,7 @@
       <workItem from="1481421112845" duration="1299000" />
       <workItem from="1483686544022" duration="998000" />
       <workItem from="1484467863586" duration="431000" />
-      <workItem from="1484468763842" duration="1314000" />
+      <workItem from="1484468763842" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交测试">
       <created>1484469645659</created>
@@ -920,11 +919,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484470295782</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试">
+      <created>1484470414210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1484470414210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30896000" />
+    <option name="totallyTimeSpent" value="31076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

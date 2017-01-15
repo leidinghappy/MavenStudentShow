@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afeda35-fcf7-4b32-8a7c-e8559ad2ce3b" name="Default" comment="测试">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/access.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/yun/yi/QueryServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/yun/yi/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/WEB-INF/classes/yun/yi/QueryServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/WEB-INF/classes/yun/yi/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/WEB-INF/lib/mysql-connector-java-5.1.29.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/ceshi.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/querystu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/showall.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/hellomaven/showonestu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/com.demo/yun/yi/Student.java" afterPath="$PROJECT_DIR$/src/main/com.demo/yun/yi/Student.java" />
     </list>
     <ignored path="helloproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +32,8 @@
             <state relative-caret-position="153">
               <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -897,7 +883,7 @@
       <workItem from="1481421112845" duration="1299000" />
       <workItem from="1483686544022" duration="998000" />
       <workItem from="1484467863586" duration="431000" />
-      <workItem from="1484468763842" duration="1184000" />
+      <workItem from="1484468763842" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交测试">
       <created>1484469645659</created>
@@ -927,11 +913,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484470138398</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="测试">
+      <created>1484470295782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1484470295782</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30766000" />
+    <option name="totallyTimeSpent" value="30896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1089,8 +1082,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1165,8 +1158,8 @@
         <state relative-caret-position="119">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1360,8 +1353,8 @@
         <state relative-caret-position="153">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>

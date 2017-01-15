@@ -4,6 +4,7 @@ package yun.yi;
  * Created by dinglei on 2016/11/10.
  */
 public class Student {
+
     private String id;
     private String name;
     public Student(){}

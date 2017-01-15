@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8afeda35-fcf7-4b32-8a7c-e8559ad2ce3b" name="Default" comment="测试">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="8afeda35-fcf7-4b32-8a7c-e8559ad2ce3b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helloproject.iws" />
@@ -840,7 +839,7 @@
       <workItem from="1481421112845" duration="1299000" />
       <workItem from="1483686544022" duration="998000" />
       <workItem from="1484467863586" duration="431000" />
-      <workItem from="1484468763842" duration="2378000" />
+      <workItem from="1484468763842" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="idea提交测试">
       <created>1484469645659</created>
@@ -891,11 +890,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484470621607</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="测试">
+      <created>1484471503420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1484471503420</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31960000" />
+    <option name="totallyTimeSpent" value="31998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

@@ -6,7 +6,6 @@ package yun.yi;
 public class Student {
 
     private String id;
-    private String dingLei;
     private String name;
     public Student(){}
     public Student (String id,String name){

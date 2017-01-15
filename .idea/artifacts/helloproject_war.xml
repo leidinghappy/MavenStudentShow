@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="helloproject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hellomaven.war">
+      <element id="artifact" artifact-name="helloproject:war exploded" />
+    </root>
+  </artifact>
+</component>
